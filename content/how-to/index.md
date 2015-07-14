@@ -1,1 +1,1 @@
-# How to series
+# Programming SnippetsI will talk about small solutions to common problemsSpecific:* How to setup Gulp* How to setup Express* How to setup a Node.js app without any framework

@@ -1,1 +1,1 @@
-# How can we learn better?
+# How can we learn better?Discuss mostly general topics about educationSpecific:* Current Education Doesn't work, How can we fix it?* Dev Boot camps: my take on them* My Journey as a self taught programmer* Using cognitive science in education* Mindmaps, how can we leverage them in education* Personalized training* Mentoring* Teaching software to different industries, how can we do it?

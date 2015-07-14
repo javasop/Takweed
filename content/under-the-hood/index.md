@@ -1,1 +1,1 @@
-# How does this work under the hood?
+# How does this work under the hood?A lot of things around us somehow work. I will talk mainly about how things work under the hood.Specific:* How does the computer run a program?* Our code is just an assembly instruction* Processor archeticture
