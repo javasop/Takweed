@@ -1,3 +1,1 @@
-# Sam Blog
-
-We talk Programming and Startups.
+# Sam's Blog
